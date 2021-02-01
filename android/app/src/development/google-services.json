@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "179733265611",
+    "project_id": "simple-calendar-app-develop",
+    "storage_bucket": "simple-calendar-app-develop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179733265611:android:e41277a6cbdfb6024f6f4e",
+        "android_client_info": {
+          "package_name": "app.nifu.simplecalendar.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179733265611-npnafvl22rh940dbk6bu43sdurtgq13u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.nifu.simplecalendar.development",
+            "certificate_hash": "831d2b92ba280927db15d63b612436590122ef5e"
+          }
+        },
+        {
+          "client_id": "179733265611-8rskik7g1iol420639a0sguv6t3ks9gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI_8Vrh4N2uTM4Ed7U0Z9sxI9ELrx99yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179733265611-8rskik7g1iol420639a0sguv6t3ks9gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179733265611-p5hbc539rfpfk49to8utustf3maito7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.nifu.simplecalendar.development"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

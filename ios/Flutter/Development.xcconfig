@@ -1,0 +1,5 @@
+#include "Generated.xcconfig"
+FLUTTER_FLAVOR=Development
+FLUTTER_TARGET=lib/main.dart
+DISPLAY_NAME=Flavor Development
+PRODUCT_BUNDLE_IDENTIFIER=app.nifu.simplecalendar.development

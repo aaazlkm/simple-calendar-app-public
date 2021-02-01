@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by futoshi niiho on 2021/02/01.
+  
+*/
+
+CFBundleDisplayName = "Simple Calendar";
+NSCalendarsUsageDescription = "Calender is required to display holidays";
+NSUserTrackingUsageDescription = "This identifier will be used to deliver personalized ads to you.";

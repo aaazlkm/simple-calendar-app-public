@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by futoshi niiho on 2021/02/01.
+  
+*/
+
+CFBundleDisplayName = "シンプルカレンダー";
+NSCalendarsUsageDescription = "祝日を表示するために、カレンダーにアクセスします";
+NSUserTrackingUsageDescription = "表示する広告を適切に選択するために使用します";
