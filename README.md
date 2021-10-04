@@ -4,6 +4,10 @@
 
 シンプルカレンダー
 
+| カレンダー画面 | 予定一覧画面 | 予定登録画面 |
+| :-------: | :----------: | :-------: |
+| ![カレンダー画面](https://user-images.githubusercontent.com/40765910/135780974-a21f631a-6089-4e3d-8d2b-0e91dd4c63f2.gif)　| ![予定一覧画面](https://user-images.githubusercontent.com/40765910/135780981-dbc656e8-45a1-4387-b3ee-da862dd115d2.gif) | ![予定登録画面](https://user-images.githubusercontent.com/40765910/135780964-9e89a42f-b230-4ee6-be63-7a1750e755f3.gif) |
+
 ## 公開したアプリの URL
 
 <https://apps.apple.com/us/app/simple-calendar-schedule-app/id1558989799>
